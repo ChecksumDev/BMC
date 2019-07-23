@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help improve the modpack
 title: "[BUG] "
-labels: ''
-assignees: ''
+labels: bug
+assignees: CollierPlays
 
 ---
 
@@ -27,4 +27,4 @@ If applicable, add screenshots to help explain your problem.
 [Ex: Windows, Mac, Linux]
 
 **Crash Logs**
-Paste your crash logs here.
+ If applicable, paste your crash logs here.
